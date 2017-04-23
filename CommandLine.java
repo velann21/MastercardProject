@@ -7,7 +7,7 @@ public class CommandLine {
 		String s2=args[1];
 		String s4=args[2];
 
-		System.out.println(s3);
+		System.out.print(s3);
 	}
 
 }
